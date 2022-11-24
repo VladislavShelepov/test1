@@ -1,0 +1,75 @@
+Filled container. 
+Container contains 7 elements.
+1: Name: bush
+It is a bush. It's flowering month is July.
+It grows in steppe.
+count of consonants: 3
+2: Name: derevo
+It is a tree. It's age is 10 days.
+It grows in desert.
+count of consonants: 3
+3: Name: kusttt
+It is a bush. It's flowering month is December.
+It grows in tundra.
+count of consonants: 5
+4: Name: cvetocheck
+It is a flower. It's garden.
+It grows in desert.
+count of consonants: 7
+5: Name: birch
+It is a tree. It's age is 100 days.
+It grows in forest.
+count of consonants: 4
+6: Name: raspberry
+It is a bush. It's flowering month is June.
+It grows in forest.
+count of consonants: 6
+7: Name: rose
+It is a flower. It's wild.
+It grows in desert.
+count of consonants: 2
+
+Container sorted. 
+Container contains 7 elements.
+1: Name: cvetocheck
+It is a flower. It's garden.
+It grows in desert.
+count of consonants: 7
+2: Name: raspberry
+It is a bush. It's flowering month is June.
+It grows in forest.
+count of consonants: 6
+3: Name: kusttt
+It is a bush. It's flowering month is December.
+It grows in tundra.
+count of consonants: 5
+4: Name: birch
+It is a tree. It's age is 100 days.
+It grows in forest.
+count of consonants: 4
+5: Name: bush
+It is a bush. It's flowering month is July.
+It grows in steppe.
+count of consonants: 3
+6: Name: derevo
+It is a tree. It's age is 10 days.
+It grows in desert.
+count of consonants: 3
+7: Name: rose
+It is a flower. It's wild.
+It grows in desert.
+count of consonants: 2
+Only Trees: 
+1: 
+2: 
+3: 
+4: Name: birch
+It is a tree. It's age is 100 days.
+It grows in forest.
+5: 
+6: Name: derevo
+It is a tree. It's age is 10 days.
+It grows in desert.
+7: 
+Empty container. 
+Container contains 0 elements.

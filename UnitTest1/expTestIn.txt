@@ -1,0 +1,9 @@
+Name: tree
+It is a tree. It's age is 10 days.
+It grows in tundra.
+Name: bush
+It is a bush. It's flowering month is January.
+It grows in tundra.
+Name: flower
+It is a flower. It's domestic.
+It grows in tundra.

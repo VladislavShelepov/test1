@@ -1,0 +1,6 @@
+1: 
+2: Name: derevo
+It is a tree. It's age is 10 days.
+It grows in desert.
+3: 
+4: 

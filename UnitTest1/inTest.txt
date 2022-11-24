@@ -1,0 +1,9 @@
+tree
+10
+1
+bush
+1
+1
+flower
+1
+1
